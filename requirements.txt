@@ -1,0 +1,6 @@
+Flask 
+flask_cors
+alpaca-py
+alpaca
+requests
+python-dotenv
